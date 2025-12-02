@@ -1,0 +1,16 @@
+{
+  "lead_multipliers": {
+    "End User": 1.0,
+    "Distributor": 0.6,
+    "Installer": 0.5,
+    "Consultant": 0.4
+  },
+  "job_multipliers": {
+    "CEO": 1.3,
+    "Owner": 1.3,
+    "Director": 1.15,
+    "Manager": 1.1,
+    "Engineer": 0.95,
+    "Technician": 0.9
+  }
+}
