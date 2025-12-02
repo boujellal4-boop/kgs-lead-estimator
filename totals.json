@@ -1,0 +1,231 @@
+{
+  "by_technology": {
+    "Other specialty detection": {
+      "total": 72805326.08
+    }
+  },
+  "by_country": {
+    "BE": {
+      "total": 1454797.84
+    },
+    "DE": {
+      "total": 470919.23
+    },
+    "DK": {
+      "total": 2090794.15
+    },
+    "ED": {
+      "total": 218999.12
+    },
+    "ES": {
+      "total": 343876.69
+    },
+    "FI": {
+      "total": 83457.1
+    },
+    "FR": {
+      "total": 4685234.74
+    },
+    "IE": {
+      "total": 166483.33
+    },
+    "IT": {
+      "total": 210245.38
+    },
+    "NL": {
+      "total": 1878063.91
+    },
+    "NO": {
+      "total": 773772.07
+    },
+    "PL": {
+      "total": 4923526.06
+    },
+    "PT": {
+      "total": 709552.63
+    },
+    "SE": {
+      "total": 2388267.17
+    },
+    "UK": {
+      "total": 1001877.19
+    },
+    "ZA": {
+      "total": 37953491.52
+    }
+  },
+  "by_industry": {
+    "Access Control - Accessories - Printer Scanner": {
+      "total": 11925.15
+    },
+    "Access Control - Controller": {
+      "total": 5714.23
+    },
+    "Access Control - Credential": {
+      "total": 11.69
+    },
+    "Access Control - Reader": {
+      "total": 84860.48999999999
+    },
+    "Access Control - Software": {
+      "total": 444.13
+    },
+    "Accessories - Batteries": {
+      "total": 697272.2
+    },
+    "Accessories - Cabling": {
+      "total": 28568.49
+    },
+    "Accessories - Power Supplies": {
+      "total": 1045730.79
+    },
+    "Fire - Accessories - Cabling": {
+      "total": 1562593.88
+    },
+    "Fire - Accessories - Door Holders": {
+      "total": 152038.38999999998
+    },
+    "Fire - Accessories - Enclosures": {
+      "total": 21856.88
+    },
+    "Fire - Accessories - Mounting Accessories": {
+      "total": 41511.21
+    },
+    "Fire - Accessories - Power Supplies": {
+      "total": 198181.81
+    },
+    "Fire - Accessories - Signage": {
+      "total": 114.92
+    },
+    "Fire - Accessories - Test Equipment": {
+      "total": 1123931.23
+    },
+    "Fire - Detection device": {
+      "total": 7985786.44
+    },
+    "Fire - Evacuation - Control": {
+      "total": 1555089.85
+    },
+    "Fire - Evacuation - Microphones": {
+      "total": 269379.69
+    },
+    "Fire - Evacuation - Speakers": {
+      "total": 47808.74
+    },
+    "Fire - Interface unit": {
+      "total": 2227110.57
+    },
+    "Fire - Notification device": {
+      "total": 3318405.07
+    },
+    "Fire - Panel": {
+      "total": 30736387.36
+    },
+    "Fire - Software": {
+      "total": 615.92
+    },
+    "Integrated Solutions - Software": {
+      "total": 993153.23
+    },
+    "Intrusion - Accessories": {
+      "total": 875555.17
+    },
+    "Intrusion - Communication Devices": {
+      "total": 1243507.61
+    },
+    "Intrusion - Control Panel": {
+      "total": 4644639.92
+    },
+    "Intrusion - Credential": {
+      "total": 246659.49
+    },
+    "Intrusion - Expanders": {
+      "total": 3570485.47
+    },
+    "Intrusion - Keypad": {
+      "total": 1036883.89
+    },
+    "Intrusion - Magnetic Locks": {
+      "total": 53528.73
+    },
+    "Intrusion - Reader": {
+      "total": 1555563.59
+    },
+    "Intrusion - Sensor - Contact": {
+      "total": 282150.08
+    },
+    "Intrusion - Sensor - Flood": {
+      "total": 6383.8
+    },
+    "Intrusion - Sensor - Glass Break": {
+      "total": 60290.13
+    },
+    "Intrusion - Sensor - Motion Sensor": {
+      "total": 950873.15
+    },
+    "Intrusion - Sensor - Outdoor Perimeter": {
+      "total": 63630.69
+    },
+    "Intrusion - Sensor - Panic": {
+      "total": 36918.36
+    },
+    "Intrusion - Sensor - Seismic": {
+      "total": 179347.7
+    },
+    "Intrusion - Sensor - Shock": {
+      "total": 37265.01
+    },
+    "Intrusion - Sensor - Smoke & CO": {
+      "total": 53437.25
+    },
+    "Intrusion - Software": {
+      "total": 55024.57
+    },
+    "Video - Accessories - Brackets & Mounts": {
+      "total": 75562.76
+    },
+    "Video - Accessories - Camera Housing": {
+      "total": 667.86
+    },
+    "Video - Accessories - Keyboards & System control": {
+      "total": 101061.41
+    },
+    "Video - Accessories - Lenses": {
+      "total": 334.18
+    },
+    "Video - Accessories - Power Supplies": {
+      "total": 14027.039999999999
+    },
+    "Video - Accessories - Recorder & Storage": {
+      "total": 15374.1
+    },
+    "Video - Camera": {
+      "total": 1859430.67
+    },
+    "Video - Encoder-Decoder": {
+      "total": 40066.96
+    },
+    "Video - Monitor": {
+      "total": 127480.16
+    },
+    "Video - Recorder": {
+      "total": 2951392.99
+    },
+    "Video - Transmission - Fiber": {
+      "total": 505.83
+    },
+    "Video - Transmission - IP & Power over Coax": {
+      "total": 9596.77
+    },
+    "Video - Transmission - Media Converters": {
+      "total": 64505.68
+    },
+    "Video - Transmission - Network accessories": {
+      "total": 54258.17
+    },
+    "Video - Transmission - Network switches": {
+      "total": 430424.53
+    }
+  },
+  "overall_total": 72805326.08
+}
