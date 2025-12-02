@@ -1,0 +1,337 @@
+{
+  "by_technology": {
+    "Addressable system": {
+      "total": 485183.71,
+      "count": 2001
+    },
+    "Conventional system": {
+      "total": 147386.72,
+      "count": 551
+    },
+    "Other specialty detection": {
+      "total": 72170898.56,
+      "count": 141636
+    },
+    "Security solutions": {
+      "total": 1857.09,
+      "count": 1
+    }
+  },
+  "by_country": {
+    "BE": {
+      "total": 1454797.84,
+      "count": 12420
+    },
+    "DE": {
+      "total": 470919.23,
+      "count": 3354
+    },
+    "DK": {
+      "total": 2090794.15,
+      "count": 1452
+    },
+    "ED": {
+      "total": 218999.12,
+      "count": 454
+    },
+    "ES": {
+      "total": 343876.69,
+      "count": 3776
+    },
+    "FI": {
+      "total": 83457.1,
+      "count": 680
+    },
+    "FR": {
+      "total": 4685234.74,
+      "count": 33722
+    },
+    "IE": {
+      "total": 166483.33,
+      "count": 1403
+    },
+    "IT": {
+      "total": 210245.38,
+      "count": 1658
+    },
+    "NL": {
+      "total": 1878063.91,
+      "count": 16216
+    },
+    "NO": {
+      "total": 773772.07,
+      "count": 1013
+    },
+    "PL": {
+      "total": 4923526.06,
+      "count": 7283
+    },
+    "PT": {
+      "total": 709552.63,
+      "count": 7104
+    },
+    "SE": {
+      "total": 2388267.17,
+      "count": 1619
+    },
+    "UK": {
+      "total": 1001877.19,
+      "count": 9388
+    },
+    "ZA": {
+      "total": 37953491.52,
+      "count": 17771
+    }
+  },
+  "by_region": {
+    "Other-EMEA": {
+      "total": 58351480.94,
+      "count": 109925
+    },
+    "UKI": {
+      "total": 1001877.19,
+      "count": 9388
+    },
+    "Unknown": {
+      "total": 13451967.95,
+      "count": 24876
+    }
+  },
+  "by_industry": {
+    "Access Control - Accessories - Printer Scanner": {
+      "total": 11925.15,
+      "count": 17
+    },
+    "Access Control - Controller": {
+      "total": 5714.23,
+      "count": 8
+    },
+    "Access Control - Credential": {
+      "total": 11.69,
+      "count": 3
+    },
+    "Access Control - Reader": {
+      "total": 84860.48999999999,
+      "count": 235
+    },
+    "Access Control - Software": {
+      "total": 444.13,
+      "count": 1
+    },
+    "Accessories - Batteries": {
+      "total": 697272.2,
+      "count": 6243
+    },
+    "Accessories - Cabling": {
+      "total": 28568.49,
+      "count": 227
+    },
+    "Accessories - Power Supplies": {
+      "total": 1045730.79,
+      "count": 1269
+    },
+    "Fire - Accessories - Cabling": {
+      "total": 1562593.88,
+      "count": 613
+    },
+    "Fire - Accessories - Door Holders": {
+      "total": 152038.38999999998,
+      "count": 948
+    },
+    "Fire - Accessories - Enclosures": {
+      "total": 21856.88,
+      "count": 35
+    },
+    "Fire - Accessories - Mounting Accessories": {
+      "total": 41511.21,
+      "count": 142
+    },
+    "Fire - Accessories - Power Supplies": {
+      "total": 198181.81,
+      "count": 306
+    },
+    "Fire - Accessories - Signage": {
+      "total": 114.92,
+      "count": 2
+    },
+    "Fire - Accessories - Test Equipment": {
+      "total": 1123931.23,
+      "count": 911
+    },
+    "Fire - Detection device": {
+      "total": 7985786.44,
+      "count": 27107
+    },
+    "Fire - Evacuation - Control": {
+      "total": 1555089.85,
+      "count": 53
+    },
+    "Fire - Evacuation - Microphones": {
+      "total": 269379.69,
+      "count": 30
+    },
+    "Fire - Evacuation - Speakers": {
+      "total": 47808.74,
+      "count": 102
+    },
+    "Fire - Interface unit": {
+      "total": 2227110.57,
+      "count": 4973
+    },
+    "Fire - Notification device": {
+      "total": 3318405.07,
+      "count": 7816
+    },
+    "Fire - Panel": {
+      "total": 30736387.36,
+      "count": 8151
+    },
+    "Fire - Software": {
+      "total": 615.92,
+      "count": 13
+    },
+    "Integrated Solutions - Software": {
+      "total": 993153.23,
+      "count": 236
+    },
+    "Intrusion - Accessories": {
+      "total": 875555.17,
+      "count": 11577
+    },
+    "Intrusion - Communication Devices": {
+      "total": 1243507.61,
+      "count": 4560
+    },
+    "Intrusion - Control Panel": {
+      "total": 4644639.92,
+      "count": 8269
+    },
+    "Intrusion - Credential": {
+      "total": 246659.49,
+      "count": 3927
+    },
+    "Intrusion - Expanders": {
+      "total": 3570485.47,
+      "count": 15342
+    },
+    "Intrusion - Keypad": {
+      "total": 1036883.89,
+      "count": 6045
+    },
+    "Intrusion - Magnetic Locks": {
+      "total": 53528.73,
+      "count": 466
+    },
+    "Intrusion - Reader": {
+      "total": 1555563.59,
+      "count": 3839
+    },
+    "Intrusion - Sensor - Contact": {
+      "total": 282150.08,
+      "count": 9114
+    },
+    "Intrusion - Sensor - Flood": {
+      "total": 6383.8,
+      "count": 162
+    },
+    "Intrusion - Sensor - Glass Break": {
+      "total": 60290.13,
+      "count": 458
+    },
+    "Intrusion - Sensor - Motion Sensor": {
+      "total": 950873.15,
+      "count": 9345
+    },
+    "Intrusion - Sensor - Outdoor Perimeter": {
+      "total": 63630.69,
+      "count": 149
+    },
+    "Intrusion - Sensor - Panic": {
+      "total": 36918.36,
+      "count": 813
+    },
+    "Intrusion - Sensor - Seismic": {
+      "total": 179347.7,
+      "count": 713
+    },
+    "Intrusion - Sensor - Shock": {
+      "total": 37265.01,
+      "count": 817
+    },
+    "Intrusion - Sensor - Smoke & CO": {
+      "total": 53437.25,
+      "count": 574
+    },
+    "Intrusion - Software": {
+      "total": 55024.57,
+      "count": 257
+    },
+    "Video - Accessories - Brackets & Mounts": {
+      "total": 75562.76,
+      "count": 1484
+    },
+    "Video - Accessories - Camera Housing": {
+      "total": 667.86,
+      "count": 23
+    },
+    "Video - Accessories - Keyboards & System control": {
+      "total": 101061.41,
+      "count": 42
+    },
+    "Video - Accessories - Lenses": {
+      "total": 334.18,
+      "count": 2
+    },
+    "Video - Accessories - Power Supplies": {
+      "total": 14027.039999999999,
+      "count": 223
+    },
+    "Video - Accessories - Recorder & Storage": {
+      "total": 15374.1,
+      "count": 59
+    },
+    "Video - Camera": {
+      "total": 1859430.67,
+      "count": 3929
+    },
+    "Video - Encoder-Decoder": {
+      "total": 40066.96,
+      "count": 67
+    },
+    "Video - Monitor": {
+      "total": 127480.16,
+      "count": 132
+    },
+    "Video - Recorder": {
+      "total": 2951392.99,
+      "count": 1716
+    },
+    "Video - Transmission - Fiber": {
+      "total": 505.83,
+      "count": 26
+    },
+    "Video - Transmission - IP & Power over Coax": {
+      "total": 9596.77,
+      "count": 59
+    },
+    "Video - Transmission - Media Converters": {
+      "total": 64505.68,
+      "count": 57
+    },
+    "Video - Transmission - Network accessories": {
+      "total": 54258.17,
+      "count": 209
+    },
+    "Video - Transmission - Network switches": {
+      "total": 430424.53,
+      "count": 293
+    }
+  },
+  "by_lead_type": {
+    "Unknown": {
+      "total": 72805326.08,
+      "count": 144189
+    }
+  },
+  "overall_total": 72805326.08
+}
